@@ -8,6 +8,10 @@ This is the introduction.
 
 ##Purpose
 
+Purpose goes here
+
 ##Deployment
+
+Deployment goes here
 
 ##How to Contribute
